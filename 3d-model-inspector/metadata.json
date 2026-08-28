@@ -1,0 +1,6 @@
+{
+  "name": "3D Model Inspector",
+  "description": "Interactive 3D model viewer and material texture inspector with real-time PBR rendering, mesh topology inspection, texture map preview, and lighting controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
